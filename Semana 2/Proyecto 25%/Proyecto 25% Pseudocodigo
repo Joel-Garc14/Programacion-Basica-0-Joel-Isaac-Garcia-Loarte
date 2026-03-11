@@ -1,0 +1,31 @@
+==========================================
+  SISTEMA DE GESTIÓN DE INVENTARIOS      
+     PARA COMEDORES POPULARES            
+==========================================
+Ingrese la cantidad de productos a registrar: 2
+
+--- REGISTRO DE PRODUCTOS ---
+
+Producto 1:
+Nombre del producto: Arroz
+Stock inicial (kg/unidades): 20
+Cantidad consumida: 18
+
+Producto 2:
+Nombre del producto: Aceite
+Stock inicial (kg/unidades): 10
+Cantidad consumida: 2
+
+==========================================
+       REPORTE FINAL DE INVENTARIO        
+==========================================
+PRODUCTO       STOCK INICIAL  CONSUMO        STOCK FINAL    ESTADO
+==========================================
+Arroz          20.0           18.0           2.0            ALERTA: STOCK BAJO
+Aceite         10.0           2.0            8.0            ESTADO: OK
+==========================================
+
+PRODUCTOS CON STOCK BAJO ( < 5.0 ):
+- Arroz (Stock: 2.0)
+
+--- FIN DEL PROGRAMA ---

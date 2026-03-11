@@ -1,0 +1,11 @@
+azeites 20 10 0 5
+pollos 35 50 0 5
+jabone 10 20 0 5
+peras 20 30 0 5
+azucar 20 25 0 5
+ace 15 20 0 5
+atun 8 20 0 5
+leche 20 35 0 5
+Manzana 5 5 0 5
+azucaarrrr 0 nan 0 5
+ 5.60519e-045 5.74252e-042 0 5
